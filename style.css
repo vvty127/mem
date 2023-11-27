@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+img {
+    width: 550px;
+    margin-left: 95px;
+    margin-top: 50px;
+}
+div {
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 10px solid white;
+}
+h1,p {
+    color: white;
+    text-align: center;
+}
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
